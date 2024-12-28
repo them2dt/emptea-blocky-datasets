@@ -1,7 +1,7 @@
 {
   "courses": [
     {
-      "id": "blockchain-basics",
+      "id": "blockchain_basics",
       "title": "Blockchain Basics",
       "description": "Introduction to blockchain technology",
       "topics": [
