@@ -67,48 +67,6 @@
               "file": "3.3_nfts.md"
             }
           ]
-        },
-        {
-          "id": "04_why_blockchain_matters",
-          "title": "Why Blockchain Matters",
-          "lessons": [
-            {
-              "id": "4.1",
-              "title": "Trust in Trustless",
-              "file": "4.1_trust_in_trustless.md"
-            },
-            {
-              "id": "4.2",
-              "title": "Privacy vs Transparency",
-              "file": "4.2_privacy_vs_transparency.md"
-            },
-            {
-              "id": "4.3",
-              "title": "Challenges",
-              "file": "4.3_challenges.md"
-            }
-          ]
-        },
-        {
-          "id": "05_set_up_your_wallet",
-          "title": "Set Up Your Wallet",
-          "lessons": [
-            {
-              "id": "5.1",
-              "title": "Setup Wallet",
-              "file": "5.1_setup_wallet.md"
-            },
-            {
-              "id": "5.2",
-              "title": "First Transaction",
-              "file": "5.2_first_transaction.md"
-            },
-            {
-              "id": "5.3",
-              "title": "Blockchain Explorer",
-              "file": "5.3_blockchain_explorer.md"
-            }
-          ]
         }
       ]
     }
